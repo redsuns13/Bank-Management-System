@@ -1,5 +1,3 @@
-# Bank-Management-System
-A Python-based Bank Management System built with Streamlit, featuring account creation, secure PIN authentication, deposits, withdrawals, transaction history, and account management.
 # 🏦 Bank Management System
 
 A simple Bank Management System developed using **Python and Streamlit**. This application allows users to create and manage bank accounts through an interactive web interface.
