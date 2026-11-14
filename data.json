@@ -1,0 +1,32 @@
+{
+    "accounts": [
+        {
+            "name": "abdulrahmansajid",
+            "age": 25,
+            "email": "a.rahmansajid@gmail.com",
+            "pin_salt": "007ff38f6946f1fe089e7adc5ade5616",
+            "pin_hash": "01aad0a1eb569e386af1a64b29b0ffe672990977438de53d45146ec85d9d756c",
+            "account_number": "1234",
+            "balance": 0
+        },
+        {
+            "name": "Maryam",
+            "age": 28,
+            "email": "maryam@gmail.com",
+            "pin_salt": "33909abb4a78c4beb71b63641e4d5046",
+            "pin_hash": "3e880d0824e2bf23764414ac387dbc95091e2e8ff12cd3cc19c36cbda5197ef6",
+            "account_number": "05Nt$J7",
+            "balance": 10000
+        },
+        {
+            "name": "mohd",
+            "age": 22,
+            "email": "ata@gmail.com",
+            "pin_salt": "c4cd998de9c3d28a5044f40a821b1df1",
+            "pin_hash": "24320b959197695d37b1da2b281f9359323fb2814a16903235b1d8f61585b7be",
+            "account_number": "7719865964",
+            "balance": 12000
+        }
+    ],
+    "transactions": []
+}
